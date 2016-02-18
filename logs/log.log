@@ -1,6 +1,0 @@
-[2016-02-01:12:42:37] - DEBUG - Equal aaa - aaa
-[2016-02-01:12:42:37] - DEBUG - Less aaa - bbb
-[2016-02-01:12:42:37] - DEBUG - Less aaa - ccc
-[2016-02-01:13:53:31] - DEBUG - Less  - aaa
-[2016-02-01:13:53:31] - DEBUG - Less  - bbb
-[2016-02-01:13:53:31] - DEBUG - Less  - ccc
