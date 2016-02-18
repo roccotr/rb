@@ -5,3 +5,6 @@ authors = ["sommoyogurt <rtrombetta@gmail.com>"]
 
 
 [dependencies]
+fern = "*"
+log = "*"
+time = "*"
